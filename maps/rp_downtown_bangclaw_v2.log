@@ -1,0 +1,2950 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Material not found!: LEGENDOFROBBO/BRANDING3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: CONCRETE/CEILING03
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: REALWORLDTEXTURES/WALLS/WESTERNWHITE
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+Too many t-junctions to fix up! (3642 prims, max 32768 :: 65547 indices, max 65536)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Material not found!: LEGENDOFROBBO/BRANDING3
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: LEGENDOFROBBO/MEXICO
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+Too many t-junctions to fix up! (3645 prims, max 32768 :: 65544 indices, max 65536)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+Too many t-junctions to fix up! (3645 prims, max 32768 :: 65544 indices, max 65536)
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7791 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+28 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7791 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4821.92 -460.00 -85.41) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7791 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (-4330.43 -381.48 -57.47) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7791 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity point_template (-4874.71 -44.33 -187.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-4524.01 -402.68 68.70) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-5003.01 1371.00 -203.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4573271 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-5003.01 1371.00 -203.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4573271 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5327
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity point_template (-4874.71 -44.33 -187.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4573271 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5326
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_spot (8468.99 4420.01 -81.55) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573303 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5326
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_spot (7604.99 4004.01 -84.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4573319 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5326
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (5)
+writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4572927 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5288
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+31 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+4949 portalclusters
+13446 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4572927 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5288
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+25 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+4949 portalclusters
+13446 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2_d/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1888 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4572927 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7792 texinfos to 5288
+Reduced 828 texdatas to 719 (35708 bytes to 32281)
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+24 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.prt
+4949 portalclusters
+13446 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 907435 visible clusters (11.31%)
+Total clusters visible: 8021397
+Average clusters visible: 1620
+Building PAS...
+Average clusters audible: 3902
+visdatasize:4055824  compressed from 6176352
+writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+PREP OK
+29427 faces
+4 degenerate faces
+4123564 square feet [593793280.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29423 patches before subdivision
+381269 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 48912579, max 3314
+transfer lists: 373.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1714192, 1485567, 993534)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(475640, 374042, 214354)
+Build Patch/Sample Hash Table(s).....Done<0.2429 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 348/4096        16704/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57871/163840     462968/1310720  (35.3%) 
+planes               21352/65536      427040/1310720  (32.6%) 
+vertexes             50942/65536      611304/786432   (77.7%) 
+nodes                12761/65536      408352/2097152  (19.5%) 
+texinfos              5288/16384      380736/1179648  (32.3%) 
+texdata                719/8192        23008/262144   ( 8.8%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29427/65536     1647912/3670016  (44.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20451/65536     1145256/3670016  (31.2%) 
+leaves               13110/65536      419520/2097152  (20.0%) 
+leaffaces            36092/65536       72184/131072   (55.1%) 
+leafbrushes          18809/65536       37618/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199245/512000     796980/2048000  (38.9%) 
+edges               147796/256000     591184/1024000  (57.7%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               228/8192        80256/2883584  ( 2.8%) 
+LDR lightdata         [variable]    27492876/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4055824/16777216 (24.2%) 
+entdata               [variable]      765234/393216   (194.6%) VERY FULL!
+LDR ambient table    13110/65536       52440/262144   (20.0%) 
+HDR ambient table    13110/65536       52440/262144   (20.0%) 
+LDR leaf ambient     48267/65536     1351476/1835008  (73.6%) 
+HDR leaf ambient     13110/65536      367080/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]     1194290/0        ( 0.0%) 
+physics               [variable]     4572927/4194304  (109.0%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58668
+Writing d:\documents\github\rp_downtown_bangclaw_v2_d\maps\rp_downtown_bangclaw_v2_d.bsp
+1 minute, 32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1880 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4572927 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7804 texinfos to 5285
+Reduced 839 texdatas to 716 (35875 bytes to 31534)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4949 portalclusters
+13446 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 907435 visible clusters (11.31%)
+Total clusters visible: 8021397
+Average clusters visible: 1620
+Building PAS...
+Average clusters audible: 3902
+visdatasize:4055824  compressed from 6176352
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29468 faces
+4 degenerate faces
+4123565 square feet [593793408.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29464 patches before subdivision
+381792 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 49048024, max 3323
+transfer lists: 374.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1714938, 1486261, 994038)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(475813, 374186, 214436)
+Build Patch/Sample Hash Table(s).....Done<0.2565 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 348/4096        16704/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57871/163840     462968/1310720  (35.3%) 
+planes               21352/65536      427040/1310720  (32.6%) 
+vertexes             50941/65536      611292/786432   (77.7%) 
+nodes                12761/65536      408352/2097152  (19.5%) 
+texinfos              5285/16384      380520/1179648  (32.3%) 
+texdata                716/8192        22912/262144   ( 8.7%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29468/65536     1650208/3670016  (45.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20483/65536     1147048/3670016  (31.3%) 
+leaves               13110/65536      419520/2097152  (20.0%) 
+leaffaces            36139/65536       72278/131072   (55.1%) 
+leafbrushes          18809/65536       37618/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199535/512000     798140/2048000  (39.0%) 
+edges               147992/256000     591968/1024000  (57.8%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               201/8192        70752/2883584  ( 2.5%) 
+LDR lightdata         [variable]    27507268/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4055824/16777216 (24.2%) 
+entdata               [variable]      765234/393216   (194.6%) VERY FULL!
+LDR ambient table    13110/65536       52440/262144   (20.0%) 
+HDR ambient table    13110/65536       52440/262144   (20.0%) 
+LDR leaf ambient     48270/65536     1351560/1835008  (73.7%) 
+HDR leaf ambient     13110/65536      367080/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]     1197275/0        ( 0.0%) 
+physics               [variable]     4572927/4194304  (109.0%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58750
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 34 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity infodecal (-5127.01 1371.00 -203.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16384.0 512.0 388.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15914.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15402.5 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (16244.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15743.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (15370.5 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 1484.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (14848.0 1024.0 364.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1878 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4577657 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7803 texinfos to 5332
+Reduced 839 texdatas to 717 (35875 bytes to 31594)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+23 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+LoadPortals: couldn't read d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1878 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4577265 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7803 texinfos to 5293
+Reduced 839 texdatas to 717 (35875 bytes to 31594)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4951 portalclusters
+13454 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 908934 visible clusters (11.34%)
+Total clusters visible: 8015368
+Average clusters visible: 1618
+Building PAS...
+Average clusters audible: 3898
+visdatasize:4055645  compressed from 6178848
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29476 faces
+3 degenerate faces
+4124389 square feet [593912064.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29473 patches before subdivision
+381807 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 48983535, max 3321
+transfer lists: 373.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1717084, 1488391, 995987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(477092, 375324, 215234)
+Build Patch/Sample Hash Table(s).....Done<0.2495 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 350/4096        16800/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57877/163840     463016/1310720  (35.3%) 
+planes               21364/65536      427280/1310720  (32.6%) 
+vertexes             50939/65536      611268/786432   (77.7%) 
+nodes                12782/65536      409024/2097152  (19.5%) 
+texinfos              5293/16384      381096/1179648  (32.3%) 
+texdata                717/8192        22944/262144   ( 8.8%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29476/65536     1650656/3670016  (45.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20507/65536     1148392/3670016  (31.3%) 
+leaves               13133/65536      420256/2097152  (20.0%) 
+leaffaces            36134/65536       72268/131072   (55.1%) 
+leafbrushes          18830/65536       37660/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199664/512000     798656/2048000  (39.0%) 
+edges               148097/256000     592388/1024000  (57.9%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               201/8192        70752/2883584  ( 2.5%) 
+LDR lightdata         [variable]    27486328/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4055645/16777216 (24.2%) 
+entdata               [variable]      766943/393216   (195.0%) VERY FULL!
+LDR ambient table    13133/65536       52532/262144   (20.0%) 
+HDR ambient table    13133/65536       52532/262144   (20.0%) 
+LDR leaf ambient     48341/65536     1353548/1835008  (73.8%) 
+HDR leaf ambient     13133/65536      367724/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]     1197275/0        ( 0.0%) 
+physics               [variable]     4577265/4194304  (109.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58767
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 49 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1878 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4577281 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7802 texinfos to 5293
+Reduced 837 texdatas to 716 (35798 bytes to 31533)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+25 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4952 portalclusters
+13449 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 904832 visible clusters (11.30%)
+Total clusters visible: 8009129
+Average clusters visible: 1617
+Building PAS...
+Average clusters audible: 3898
+visdatasize:4062888  compressed from 6180096
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29471 faces
+3 degenerate faces
+4124390 square feet [593912192.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29468 patches before subdivision
+381664 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 48934106, max 3321
+transfer lists: 373.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1716971, 1488297, 995932)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(477069, 375307, 215225)
+Build Patch/Sample Hash Table(s).....Done<0.2601 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 350/4096        16800/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57877/163840     463016/1310720  (35.3%) 
+planes               21360/65536      427200/1310720  (32.6%) 
+vertexes             50932/65536      611184/786432   (77.7%) 
+nodes                12781/65536      408992/2097152  (19.5%) 
+texinfos              5293/16384      381096/1179648  (32.3%) 
+texdata                716/8192        22912/262144   ( 8.7%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29471/65536     1650376/3670016  (45.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20507/65536     1148392/3670016  (31.3%) 
+leaves               13132/65536      420224/2097152  (20.0%) 
+leaffaces            36138/65536       72276/131072   (55.1%) 
+leafbrushes          18827/65536       37654/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199644/512000     798576/2048000  (39.0%) 
+edges               148077/256000     592308/1024000  (57.8%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               201/8192        70752/2883584  ( 2.5%) 
+LDR lightdata         [variable]    27478612/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4062888/16777216 (24.2%) 
+entdata               [variable]      767033/393216   (195.1%) VERY FULL!
+LDR ambient table    13132/65536       52528/262144   (20.0%) 
+HDR ambient table    13132/65536       52528/262144   (20.0%) 
+LDR leaf ambient     48341/65536     1353548/1835008  (73.8%) 
+HDR leaf ambient     13132/65536      367696/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]     1196814/0        ( 0.0%) 
+physics               [variable]     4577281/4194304  (109.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58757
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1878 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (3) (4576967 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7802 texinfos to 5293
+Reduced 839 texdatas to 717 (35875 bytes to 31594)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+26 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4955 portalclusters
+13449 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 905928 visible clusters (11.29%)
+Total clusters visible: 8021030
+Average clusters visible: 1618
+Building PAS...
+Average clusters audible: 3902
+visdatasize:4071074  compressed from 6183840
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29491 faces
+3 degenerate faces
+4124383 square feet [593911168.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29488 patches before subdivision
+381794 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 48998241, max 3321
+transfer lists: 373.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1717237, 1488549, 996130)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(477129, 375358, 215256)
+Build Patch/Sample Hash Table(s).....Done<0.2744 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 348/4096        16704/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57877/163840     463016/1310720  (35.3%) 
+planes               21360/65536      427200/1310720  (32.6%) 
+vertexes             50948/65536      611376/786432   (77.7%) 
+nodes                12776/65536      408832/2097152  (19.5%) 
+texinfos              5293/16384      381096/1179648  (32.3%) 
+texdata                717/8192        22944/262144   ( 8.8%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29491/65536     1651496/3670016  (45.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20507/65536     1148392/3670016  (31.3%) 
+leaves               13125/65536      420000/2097152  (20.0%) 
+leaffaces            36157/65536       72314/131072   (55.2%) 
+leafbrushes          18834/65536       37668/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199721/512000     798884/2048000  (39.0%) 
+edges               148126/256000     592504/1024000  (57.9%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               201/8192        70752/2883584  ( 2.5%) 
+LDR lightdata         [variable]    27483896/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     4071074/16777216 (24.3%) 
+entdata               [variable]      765452/393216   (194.7%) VERY FULL!
+LDR ambient table    13125/65536       52500/262144   (20.0%) 
+HDR ambient table    13125/65536       52500/262144   (20.0%) 
+LDR leaf ambient     48264/65536     1351392/1835008  (73.6%) 
+HDR leaf ambient     13125/65536      367500/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]     1197275/0        ( 0.0%) 
+physics               [variable]     4576967/4194304  (109.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58796
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 48 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Can't find surfaceprop sheetrock for material PLASTER/PLASTER_INT_18, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendprodasphaltgrass_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/infblendgrassdirt001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/de_train/blendgrassdirt001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1878 detail faces...done (1)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (4)
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4576967 bytes)
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7802 texinfos to 5293
+Reduced 839 texdatas to 717 (35875 bytes to 31594)
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+27 seconds elapsed
+
+
+
+28 threads
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4955 portalclusters
+13449 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 29187 visible clusters (1.09%)
+Total clusters visible: 2686815
+Average clusters visible: 542
+Building PAS...
+Average clusters audible: 1827
+visdatasize:2279609  compressed from 6183840
+writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+2 hours, 45 minutes, 25 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29491 faces
+3 degenerate faces
+4124383 square feet [593911168.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29488 patches before subdivision
+381794 patches after subdivision
+948 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 48998205, max 3321
+transfer lists: 373.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1701983, 1476961, 990845)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(473199, 372582, 213977)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(142355, 104631, 55603)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(47618, 33461, 17617)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(16797, 11531, 6309)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(6272, 4290, 2489)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(2438, 1683, 1039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(983, 691, 450)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(408, 293, 199)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(173, 127, 89)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(75, 56, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(33, 25, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(15, 11, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(7, 5, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 2, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.2569 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 348/4096        16704/196608   ( 8.5%) 
+brushes               8517/16384      102204/196608   (52.0%) 
+brushsides           57877/163840     463016/1310720  (35.3%) 
+planes               21360/65536      427200/1310720  (32.6%) 
+vertexes             50948/65536      611376/786432   (77.7%) 
+nodes                12776/65536      408832/2097152  (19.5%) 
+texinfos              5293/16384      381096/1179648  (32.3%) 
+texdata                717/8192        22944/262144   ( 8.8%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29491/65536     1651496/3670016  (45.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            20507/65536     1148392/3670016  (31.3%) 
+leaves               13125/65536      420000/2097152  (20.0%) 
+leaffaces            36157/65536       72314/131072   (55.2%) 
+leafbrushes          18834/65536       37668/131072   (28.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           199721/512000     798884/2048000  (39.0%) 
+edges               148126/256000     592504/1024000  (57.9%) 
+LDR worldlights        948/8192        83424/720896   (11.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          41/1024          656/16384    ( 4.0%) 
+overlays               201/8192        70752/2883584  ( 2.5%) 
+LDR lightdata         [variable]    27483896/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     2279609/16777216 (13.6%) 
+entdata               [variable]      765452/393216   (194.7%) VERY FULL!
+LDR ambient table    13125/65536       52500/262144   (20.0%) 
+HDR ambient table    13125/65536       52500/262144   (20.0%) 
+LDR leaf ambient     48270/65536     1351560/1835008  (73.7%) 
+HDR leaf ambient     13125/65536      367500/1835008  (20.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/92876    ( 0.0%) 
+pakfile               [variable]    10454019/0        ( 0.0%) 
+physics               [variable]     4576967/4194304  (109.1%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 58796
+Writing d:\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+3 minutes, 26 seconds elapsed

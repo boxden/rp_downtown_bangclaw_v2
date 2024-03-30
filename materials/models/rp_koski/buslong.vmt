@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "suomimateriaalit/liikenne/buslong"
+	"$surfaceprop" "metal"
+}
