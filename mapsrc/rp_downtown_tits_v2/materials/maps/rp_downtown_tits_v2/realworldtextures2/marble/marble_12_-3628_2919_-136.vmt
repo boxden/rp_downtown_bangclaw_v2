@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES2/MARBLE/MARBLE_12.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c-3628_2919_-136"
-	}
-}

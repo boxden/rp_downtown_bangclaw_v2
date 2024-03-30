@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/watersource/water/water_invis.vmt"
-	"insert"
-	{
-		"$waterdepth"		"21"
-	}
-}

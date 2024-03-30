@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/CONCRETE/CONCRETEFLOOR028C.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c9180_-6924_-238"
-	}
-}

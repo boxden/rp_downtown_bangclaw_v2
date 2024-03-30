@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/REALWORLDTEXTURES2/WOOD/WOOD_01.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c9344_-9728_-101"
-	}
-}

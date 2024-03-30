@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture"		"xzertel/grass001"
-	"$bumpmap"		"xzertel/Cliff1n"
-	"$surfaceprop"		"Gravel"
-	"$envmaptint"		"[ 0 0 0]"
-	"$envmap"		"env_cubemap"
-	"%keywords"		"xzertel"
-}

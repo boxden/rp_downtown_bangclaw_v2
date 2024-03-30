@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/WOOD/WOODSTAIR002B.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c1152_7040_32"
-	}
-}

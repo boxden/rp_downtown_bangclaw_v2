@@ -1,9 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOWBREAK070A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c4976_1759_-136"
-		"$crackmaterial"		"maps/rp_downtown_tits_v2/glass/glasswindowbreak070b_4976_1759_-136"
-	}
-}

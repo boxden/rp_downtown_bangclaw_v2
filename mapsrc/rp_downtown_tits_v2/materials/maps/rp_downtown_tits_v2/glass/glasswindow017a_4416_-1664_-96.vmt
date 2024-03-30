@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/GLASS/GLASSWINDOW017A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c4416_-1664_-96"
-	}
-}

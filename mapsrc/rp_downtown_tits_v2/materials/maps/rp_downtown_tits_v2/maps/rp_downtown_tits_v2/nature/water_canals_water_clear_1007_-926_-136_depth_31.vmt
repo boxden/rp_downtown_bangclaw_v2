@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/maps/rp_downtown_tits_v2/nature/water_canals_water_clear_1007_-926_-136.vmt"
-	"insert"
-	{
-		"$waterdepth"		"31"
-	}
-}

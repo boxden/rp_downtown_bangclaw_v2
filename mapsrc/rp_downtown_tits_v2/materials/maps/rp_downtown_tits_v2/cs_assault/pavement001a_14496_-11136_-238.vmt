@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/CS_ASSAULT/PAVEMENT001A.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c14496_-11136_-238"
-	}
-}

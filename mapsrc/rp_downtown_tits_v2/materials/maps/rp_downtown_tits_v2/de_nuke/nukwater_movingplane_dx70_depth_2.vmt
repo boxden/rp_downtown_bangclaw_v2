@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/de_nuke/nukwater_movingplane_dx70.vmt"
-	"insert"
-	{
-		"$waterdepth"		"2"
-	}
-}

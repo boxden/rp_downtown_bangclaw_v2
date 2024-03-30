@@ -1,8 +1,0 @@
-"patch"
-{
-	"include"		"materials/PLASTER/PLASTERWALL022C.vmt"
-	"replace"
-	{
-		"$envmap"		"maps/rp_downtown_tits_v2/c1007_-926_-136"
-	}
-}

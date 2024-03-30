@@ -1,9 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture"		"cliff3/BigSand1"
-	"$bumpmap"		"cliff3/BigSand1n"
-	"$surfaceprop"		"sand"
-	"$envmaptint"		"[ 0 0 0]"
-	"$envmap"		"env_cubemap"
-	"%keywords"		"cstrike"
-}

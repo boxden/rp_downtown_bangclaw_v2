@@ -1,6 +1,0 @@
-vertexlitgeneric
-{
-	"$basetexture"	"de_train\train_cement_step_04"
-	"$surfaceprop" "concrete"
-
-}
