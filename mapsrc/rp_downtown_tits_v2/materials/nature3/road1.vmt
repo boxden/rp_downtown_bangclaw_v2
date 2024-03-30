@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "nature3/road1"
+	"$bumpmap" "nature3/road1_ssbump"
+	"$surfaceprop" "concrete"
+                "$ssbump"	"1"
+$envmaptint "[ .02 .02 .02 ]"
+$envmapsaturation ".7"
+$envmapcontrast ".7"
+$envmap env_cubemap
+$envmapmask		"nature3/road1_env"
+}

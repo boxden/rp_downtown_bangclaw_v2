@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL018E_CHEAP.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/rp_downtown_tits_v2/c-3628_2919_-136"
+		}
+	}
+}

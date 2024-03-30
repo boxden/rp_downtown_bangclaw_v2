@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/HL2_LEAK/BRICK/BRICKWALL009B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c-3628_2919_-136"
+	}
+}

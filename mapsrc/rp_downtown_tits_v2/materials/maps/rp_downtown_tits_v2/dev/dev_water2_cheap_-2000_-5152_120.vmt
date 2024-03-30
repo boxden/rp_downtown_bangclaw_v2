@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/DEV/DEV_WATER2_CHEAP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c-2000_-5152_120"
+		"Proxies"
+		{
+		}
+	}
+}

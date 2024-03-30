@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/PLASTER/PLASTERWALL030C_C17.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/rp_downtown_tits_v2/c1007_-926_-136"
+		}
+	}
+}

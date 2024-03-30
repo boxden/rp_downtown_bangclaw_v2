@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture2" "gtavgrass2"
+	"%detailtype" "alley_grass1"
+	"$basetexture" "gtavgrass1"
+	"$surfaceprop2" "grass"
+	"$surfaceprop" "dirt"
+}
