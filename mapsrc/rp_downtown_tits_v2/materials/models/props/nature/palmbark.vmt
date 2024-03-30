@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props/nature/palmbark"
+	"$surfaceprop" "Wood_Solid"
+	"%keywords" "CZS"
+}

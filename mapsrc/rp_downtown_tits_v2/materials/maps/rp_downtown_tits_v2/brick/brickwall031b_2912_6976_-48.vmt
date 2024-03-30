@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/BRICK/BRICKWALL031B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c2912_6976_-48"
+	}
+}

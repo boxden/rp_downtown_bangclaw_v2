@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/NATURE/WATER_CANALS_CHEAP003.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c1007_-926_-136"
+		"Proxies"
+		{
+		}
+	}
+}

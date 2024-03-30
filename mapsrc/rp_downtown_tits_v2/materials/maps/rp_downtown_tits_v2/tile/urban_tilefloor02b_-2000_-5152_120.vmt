@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/URBAN_TILEFLOOR02B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c-2000_-5152_120"
+	}
+}

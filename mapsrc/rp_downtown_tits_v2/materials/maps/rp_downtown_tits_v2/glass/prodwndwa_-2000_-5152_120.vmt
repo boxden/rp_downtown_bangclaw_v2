@@ -1,0 +1,9 @@
+"patch"
+{
+	"include"		"materials/GLASS/PRODWNDWA.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c-2000_-5152_120"
+		"$crackmaterial"		"maps/rp_downtown_tits_v2/glass/glasswindowbreak070b_-2000_-5152_120"
+	}
+}

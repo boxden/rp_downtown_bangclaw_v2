@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$basetexture"		"patriot\color\color_032-032-032"
+	"$surfaceprop"		"metal"
+	"$bumpmap"		"patriot\bump_normal"
+
+	"$envmap"		"env_cubemap"
+	"$envmapsuration"		0
+	"$envmaptint"		"{32 32 32}"
+
+
+	"$phong"			1
+	"$phongexponent"		33
+	"$phongboost"		5
+	"$phongtint"		"{160 190 231}"
+}

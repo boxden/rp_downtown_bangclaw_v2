@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/OFFGARAGEDR.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c-190_4773_-556"
+	}
+}
