@@ -4836,3 +4836,1950 @@ Level flags = 0
 Total triangle count: 58904
 Writing c:\users\sanya\desktop\maps\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
 59 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: REALWORLDTEXTURES/WALLS/WESTERNWHITE
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: ARTS/TARRANT
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1880 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4726966 bytes)
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/sickness/fridge_01.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7816 texinfos to 5397
+Reduced 757 texdatas to 656 (30649 bytes to 26945)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+18 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4467 portalclusters
+11955 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 712993 visible clusters (9.92%)
+Total clusters visible: 7190943
+Average clusters visible: 1609
+Building PAS...
+Average clusters audible: 3889
+visdatasize:3562167  compressed from 5003040
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29584 faces
+3 degenerate faces
+4151244 square feet [597779136.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29581 patches before subdivision
+292201 patches after subdivision
+1010 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35798289, max 3348
+transfer lists: 273.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1132790, 1001741, 670918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(285086, 226469, 131661)
+Build Patch/Sample Hash Table(s).....Done<0.1193 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8825/16384      105900/196608   (53.9%) 
+brushsides           59690/163840     477520/1310720  (36.4%) 
+planes               21536/65536      430720/1310720  (32.9%) 
+vertexes             51967/65536      623604/786432   (79.3%) 
+nodes                13090/65536      418880/2097152  (20.0%) 
+texinfos              5397/16384      388584/1179648  (32.9%) 
+texdata                656/8192        20992/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29584/65536     1656704/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21327/65536     1194312/3670016  (32.5%) 
+leaves               13547/65536      433504/2097152  (20.7%) 
+leaffaces            35292/65536       70584/131072   (53.9%) 
+leafbrushes          16476/65536       32952/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203357/512000     813428/2048000  (39.7%) 
+edges               151719/256000     606876/1024000  (59.3%) 
+LDR worldlights       1010/8192        88880/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               203/8192        71456/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20408292/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3562167/16777216 (21.2%) 
+entdata               [variable]      868863/393216   (221.0%) VERY FULL!
+LDR ambient table    13547/65536       54188/262144   (20.7%) 
+HDR ambient table    13547/65536       54188/262144   (20.7%) 
+LDR leaf ambient     43773/65536     1225644/1835008  (66.8%) 
+HDR leaf ambient     13547/65536      379316/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4726966/4194304  (112.7%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58972
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+59 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: REALWORLDTEXTURES/WALLS/WESTERNWHITE
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: ARTS/TARRANT
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1880 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4726966 bytes)
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/sickness/fridge_01.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7816 texinfos to 5397
+Reduced 757 texdatas to 656 (30649 bytes to 26945)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+17 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4467 portalclusters
+11955 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 712993 visible clusters (9.92%)
+Total clusters visible: 7190943
+Average clusters visible: 1609
+Building PAS...
+Average clusters audible: 3889
+visdatasize:3562167  compressed from 5003040
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29584 faces
+3 degenerate faces
+4151244 square feet [597779136.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29581 patches before subdivision
+292201 patches after subdivision
+1010 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35798289, max 3348
+transfer lists: 273.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1132790, 1001741, 670918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(285086, 226469, 131661)
+Build Patch/Sample Hash Table(s).....Done<0.1164 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8825/16384      105900/196608   (53.9%) 
+brushsides           59690/163840     477520/1310720  (36.4%) 
+planes               21536/65536      430720/1310720  (32.9%) 
+vertexes             51967/65536      623604/786432   (79.3%) 
+nodes                13090/65536      418880/2097152  (20.0%) 
+texinfos              5397/16384      388584/1179648  (32.9%) 
+texdata                656/8192        20992/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29584/65536     1656704/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21327/65536     1194312/3670016  (32.5%) 
+leaves               13547/65536      433504/2097152  (20.7%) 
+leaffaces            35292/65536       70584/131072   (53.9%) 
+leafbrushes          16476/65536       32952/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203357/512000     813428/2048000  (39.7%) 
+edges               151719/256000     606876/1024000  (59.3%) 
+LDR worldlights       1010/8192        88880/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               203/8192        71456/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20408292/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3562167/16777216 (21.2%) 
+entdata               [variable]      868863/393216   (221.0%) VERY FULL!
+LDR ambient table    13547/65536       54188/262144   (20.7%) 
+HDR ambient table    13547/65536       54188/262144   (20.7%) 
+LDR leaf ambient     43773/65536     1225644/1835008  (66.8%) 
+HDR leaf ambient     13547/65536      379316/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4726966/4194304  (112.7%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58972
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 0 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: REALWORLDTEXTURES/WALLS/WESTERNWHITE
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: ARTS/TARRANT
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1880 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4726966 bytes)
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/sickness/fridge_01.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7816 texinfos to 5397
+Reduced 757 texdatas to 656 (30649 bytes to 26945)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+16 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4467 portalclusters
+11955 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 712993 visible clusters (9.92%)
+Total clusters visible: 7190943
+Average clusters visible: 1609
+Building PAS...
+Average clusters audible: 3889
+visdatasize:3562167  compressed from 5003040
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29584 faces
+3 degenerate faces
+4151244 square feet [597779136.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29581 patches before subdivision
+292201 patches after subdivision
+1010 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35798289, max 3348
+transfer lists: 273.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1132790, 1001741, 670918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(285086, 226469, 131661)
+Build Patch/Sample Hash Table(s).....Done<0.1150 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8825/16384      105900/196608   (53.9%) 
+brushsides           59690/163840     477520/1310720  (36.4%) 
+planes               21536/65536      430720/1310720  (32.9%) 
+vertexes             51967/65536      623604/786432   (79.3%) 
+nodes                13090/65536      418880/2097152  (20.0%) 
+texinfos              5397/16384      388584/1179648  (32.9%) 
+texdata                656/8192        20992/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29584/65536     1656704/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21327/65536     1194312/3670016  (32.5%) 
+leaves               13547/65536      433504/2097152  (20.7%) 
+leaffaces            35292/65536       70584/131072   (53.9%) 
+leafbrushes          16476/65536       32952/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203357/512000     813428/2048000  (39.7%) 
+edges               151719/256000     606876/1024000  (59.3%) 
+LDR worldlights       1010/8192        88880/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               203/8192        71456/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20408292/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3562167/16777216 (21.2%) 
+entdata               [variable]      868864/393216   (221.0%) VERY FULL!
+LDR ambient table    13547/65536       54188/262144   (20.7%) 
+HDR ambient table    13547/65536       54188/262144   (20.7%) 
+LDR leaf ambient     43773/65536     1225644/1835008  (66.8%) 
+HDR leaf ambient     13547/65536      379316/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4726966/4194304  (112.7%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58972
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 3 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: REALWORLDTEXTURES/WALLS/WESTERNWHITE
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: ARTS/TARRANT
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1880 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4726966 bytes)
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/sickness/fridge_01.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7816 texinfos to 5397
+Reduced 757 texdatas to 656 (30649 bytes to 26945)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+16 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4467 portalclusters
+11955 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 712993 visible clusters (9.92%)
+Total clusters visible: 7190943
+Average clusters visible: 1609
+Building PAS...
+Average clusters audible: 3889
+visdatasize:3562167  compressed from 5003040
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29584 faces
+3 degenerate faces
+4151244 square feet [597779136.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29581 patches before subdivision
+292201 patches after subdivision
+1010 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35798289, max 3348
+transfer lists: 273.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1132790, 1001741, 670918)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(285086, 226469, 131661)
+Build Patch/Sample Hash Table(s).....Done<0.1239 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8825/16384      105900/196608   (53.9%) 
+brushsides           59690/163840     477520/1310720  (36.4%) 
+planes               21536/65536      430720/1310720  (32.9%) 
+vertexes             51967/65536      623604/786432   (79.3%) 
+nodes                13090/65536      418880/2097152  (20.0%) 
+texinfos              5397/16384      388584/1179648  (32.9%) 
+texdata                656/8192        20992/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29584/65536     1656704/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21327/65536     1194312/3670016  (32.5%) 
+leaves               13547/65536      433504/2097152  (20.7%) 
+leaffaces            35292/65536       70584/131072   (53.9%) 
+leafbrushes          16476/65536       32952/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203357/512000     813428/2048000  (39.7%) 
+edges               151719/256000     606876/1024000  (59.3%) 
+LDR worldlights       1010/8192        88880/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               203/8192        71456/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20408292/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3562167/16777216 (21.2%) 
+entdata               [variable]      868902/393216   (221.0%) VERY FULL!
+LDR ambient table    13547/65536       54188/262144   (20.7%) 
+HDR ambient table    13547/65536       54188/262144   (20.7%) 
+LDR leaf ambient     43773/65536     1225644/1835008  (66.8%) 
+HDR leaf ambient     13547/65536      379316/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4726966/4194304  (112.7%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58972
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 minute, 1 second elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: ARTS/TARRANT
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1850 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4721974 bytes)
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7808 texinfos to 5387
+Reduced 758 texdatas to 657 (30623 bytes to 26919)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+16 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4463 portalclusters
+11947 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 709966 visible clusters (9.89%)
+Total clusters visible: 7178034
+Average clusters visible: 1608
+Building PAS...
+Average clusters audible: 3885
+visdatasize:3548211  compressed from 4998560
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29540 faces
+3 degenerate faces
+4147322 square feet [597214464.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29537 patches before subdivision
+291667 patches after subdivision
+1008 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35803978, max 3348
+transfer lists: 273.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1131053, 1000786, 669676)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(284514, 226109, 131134)
+Build Patch/Sample Hash Table(s).....Done<0.1168 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8811/16384      105732/196608   (53.8%) 
+brushsides           59609/163840     476872/1310720  (36.4%) 
+planes               21524/65536      430480/1310720  (32.8%) 
+vertexes             51882/65536      622584/786432   (79.2%) 
+nodes                13085/65536      418720/2097152  (20.0%) 
+texinfos              5387/16384      387864/1179648  (32.9%) 
+texdata                657/8192        21024/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29540/65536     1654240/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21288/65536     1192128/3670016  (32.5%) 
+leaves               13542/65536      433344/2097152  (20.7%) 
+leaffaces            35210/65536       70420/131072   (53.7%) 
+leafbrushes          16448/65536       32896/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203025/512000     812100/2048000  (39.7%) 
+edges               151476/256000     605904/1024000  (59.2%) 
+LDR worldlights       1008/8192        88704/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               205/8192        72160/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20380116/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3548211/16777216 (21.1%) 
+entdata               [variable]      864259/393216   (219.8%) VERY FULL!
+LDR ambient table    13542/65536       54168/262144   (20.7%) 
+HDR ambient table    13542/65536       54168/262144   (20.7%) 
+LDR leaf ambient     43765/65536     1225420/1835008  (66.8%) 
+HDR leaf ambient     13542/65536      379176/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4721974/4194304  (112.6%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58884
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+58 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: ARTS/TARRANT
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1850 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (4721974 bytes)
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7808 texinfos to 5387
+Reduced 758 texdatas to 657 (30623 bytes to 26919)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+16 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4463 portalclusters
+11947 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 709966 visible clusters (9.89%)
+Total clusters visible: 7178034
+Average clusters visible: 1608
+Building PAS...
+Average clusters audible: 3885
+visdatasize:3548211  compressed from 4998560
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29540 faces
+3 degenerate faces
+4147322 square feet [597214464.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29537 patches before subdivision
+291667 patches after subdivision
+1008 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35803978, max 3348
+transfer lists: 273.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1131053, 1000786, 669676)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(284514, 226109, 131134)
+Build Patch/Sample Hash Table(s).....Done<0.1174 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8811/16384      105732/196608   (53.8%) 
+brushsides           59609/163840     476872/1310720  (36.4%) 
+planes               21524/65536      430480/1310720  (32.8%) 
+vertexes             51882/65536      622584/786432   (79.2%) 
+nodes                13085/65536      418720/2097152  (20.0%) 
+texinfos              5387/16384      387864/1179648  (32.9%) 
+texdata                657/8192        21024/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29540/65536     1654240/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21288/65536     1192128/3670016  (32.5%) 
+leaves               13542/65536      433344/2097152  (20.7%) 
+leaffaces            35210/65536       70420/131072   (53.7%) 
+leafbrushes          16448/65536       32896/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203025/512000     812100/2048000  (39.7%) 
+edges               151476/256000     605904/1024000  (59.2%) 
+LDR worldlights       1008/8192        88704/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               205/8192        72160/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20380116/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3548211/16777216 (21.1%) 
+entdata               [variable]      864259/393216   (219.8%) VERY FULL!
+LDR ambient table    13542/65536       54168/262144   (20.7%) 
+HDR ambient table    13542/65536       54168/262144   (20.7%) 
+LDR leaf ambient     43765/65536     1225420/1835008  (66.8%) 
+HDR leaf ambient     13542/65536      379176/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4721974/4194304  (112.6%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58884
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+59 seconds elapsed
+
+
+
+materialPath: E:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.vmf
+Material not found!: DE_TRAIN/TRAIN_CEMENTWEAR_01
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Material not found!: DE_TRAIN/TRAIN_CEMENT_FLOOR_01
+Material not found!: CS_ASSAULT/CONCRETEFLOOR026A
+Material not found!: BRICK/BRICKWALL056A
+Material not found!: CS_ITALY/PWOOD1
+Material not found!: CS_ASSAULT/PAVEMENT001A
+Material not found!: CS_ITALY/COBBLE03
+Material not found!: TILE/CEILINGTILEA
+Material not found!: CS_ASSAULT/ASSAULT_WAREHOUSE_02
+Material not found!: CONCRETE/OFFFLRB
+Material not found!: CS_ITALY/WALLPAPER02
+Material not found!: DE_CHATEAU/WALL04PNL
+Material not found!: CS_ASSAULT/ASSAULT_BRICK1
+Material not found!: CS_HAVANA/CEILING01
+Material not found!: METAL/METALWALL065A
+Material not found!: WOOD/INFWOODFLOOR007A
+Material not found!: CS_ITALY/WALLPAP04B
+Material not found!: CS_ITALY/WFLOOR-SN00
+Material not found!: GLASS/UNBREAKABLE
+Material not found!: BRICK/BRICKWALL004A
+Material not found!: DE_TRAIN/DE_TRAIN_PLASTERWALL_01
+Material not found!: PLASTER/INFPLASTERWALL044D
+Material not found!: CS_ASSAULT/PAVEMENT001
+Material not found!: DE_DUST/SITEBWALL08
+Material not found!: BRICK/BRICKWALL008A
+Material not found!: PLASTER/PLASTERWALL024A
+Material not found!: CS_ITALY/CR_MISCWOOD2B
+Material not found!: DE_PIRANESI/PI_WOOD1
+Material not found!: CS_HAVANA/WOODM
+Material not found!: WOOD/MILROOF002
+Material not found!: DE_PIRANESI/PI_WOOD3
+Material not found!: WOOD/OFFPARTICLEBOARD
+Material not found!: DE_CHATEAU/BUSH01A
+Material not found!: GLASS/PRODWNDWA
+Material not found!: DE_CHATEAU/WOODM
+Material not found!: DE_TIDES/TIDES_FLOOR_WOOD
+Material not found!: CARPET/OFFFLRB
+Material not found!: WOOD/INFFENCE01
+Material not found!: DE_PIRANESI/WOODFLOOR03
+Material not found!: CONCRETE/PRODFLRA
+Material not found!: CS_ITALY/COBBLE04
+Material not found!: DE_PRODIGY/TUNNELPLASTER03
+Material not found!: LEGENDOFROBBO/BRANDING3
+Material not found!: DE_TRAIN/TRAIN_OLDBRICK_01
+Material not found!: DE_TRAIN/TRAIN_GRASS_FLOOR_01
+Material not found!: CARPET/OFFFLRA
+Material not found!: WOOD/BOARDWALKS01
+Material not found!: WOOD/MILWALL011
+Material not found!: CS_HAVANA/CONCRETEFLOOR011A
+Material not found!: EFFECTS/METALDOOR017A
+Material not found!: NATURE/BLENDPRODASPHALTGRASS
+Material not found!: CS_ITALY/WALLPAPER03
+Material not found!: BRICK/BRICKWALL003D
+Material not found!: METAL/METALPIPE003A_CHEAP
+Material not found!: DE_CBBLE/WOODCEILING01
+Material not found!: BRICK/BRICKWALL026D
+Material not found!: DE_PIRANESI/MARBLEFLOOR04
+Material not found!: PLASTER/PLASTERWALLPAPER003A
+Material not found!: BRICK/BRICKWALL026F
+Material not found!: CS_HAVANA/METAL02
+Material not found!: DE_NUKE/NUKE_METALFLOOR_01
+Material not found!: DE_TIDES/TIDES_FLOOR_COBBLE_1
+Material not found!: DE_PIRANESI/MARBLEFLOOR06
+Material not found!: PLASTER/OFFWLLC
+Material not found!: WOOD/WOODWALL032G
+Material not found!: DE_DUST/TILEFLOOR02
+Material not found!: STONE/INFFLRB
+Material not found!: DE_PRODIGY/TUNNELPLASTER02
+Material not found!: CONCRETE/CONCRETEWALL011C
+Material not found!: NATURE/INFBLENDGRASSDIRT001A
+Material not found!: NATURE/PORTCLIFF001
+Material not found!: LEGENDOFROBBO/MEXICO
+Material not found!: DE_PIRANESI/PI_GRNMETALT
+Material not found!: PLASTER/PLASTER_INT_18
+Material not found!: ARTS/TARRANT
+Material not found!: PLASTER/OFFWLLB
+Material not found!: DE_TRAIN/BLENDGRASSDIRT001A
+Material not found!: DE_PIRANESI/WOODFLOOR02
+Material not found!: CS_ITALY/CUICEILA
+Material not found!: GLASS/OFFWNDWB
+Material not found!: METAL/METALDOOR017A
+Material not found!: CS_HAVANA/METALWALL085A
+Material not found!: CS_HAVANA/WOODF01
+Material not found!: PLASTER/PLASTERWALL008F
+Material not found!: DE_CHATEAU/BRICKH
+Material not found!: BRICK/INFWLLB
+Material not found!: CS_ITALY/TILEROOF01
+Material not found!: TILE/INFROOFB
+Material not found!: CONCRETE/CONCRETEWALL056B
+Material not found!: METAL/MILROOF002
+Material not found!: WOOD/MILWALL017
+Material not found!: DE_TRAIN/TRAIN_METALCEILING_02
+Material not found!: BRICK/BRICKWALL042G
+Material not found!: CS_ITALY/BRICKWALL01
+Material not found!: DE_CHATEAU/BRICKHMRTR
+Material not found!: CONCRETE/PRODSTEPFRNT
+Material not found!: DE_TRAIN/TRAIN_METALGRATE_01
+Material not found!: CONCRETE/METALWALL001B_CHEAP
+Material not found!: DE_CHATEAU/WALL04PNL02
+Material not found!: LEGENDOFROBBO/GEOMETRY
+Material not found!: CS_HAVANA/METAL01
+Material not found!: CS_HAVANA/CONCRETE01
+Material not found!: WOOD/WOODSHELF005A
+Material not found!: WOOD/OFFDESKTOP
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandsand008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass008a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blendsandrock004a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/rp_downtown_bangclaw_v2/nature/blenddirtgrass006a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1850 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (3)
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_05*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+*** Error: Skybox vtf files for skybox/sky_day01_05 weren't compiled with the same size texture and/or same flags!
+Can't load skybox file skybox/sky_day01_05 to build the default cubemap!
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (2) (4721974 bytes)
+Error! prop_static using model "models/props_c17/furniturefridge001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_c17/furniturefridge001a.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_large.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_inset.mdl"!
+Error loading studio model STATIC "models/props/cs_office/sofa.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/billboard.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_singlespan_128.mdl"!
+Error loading studio model STATIC "models/props/de_train/handrail_alley-upperdeck.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/camera.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/firehydrant.mdl"!
+Error! prop_static using model "models/props_junk/trashdumpster01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props_junk/trashdumpster01a.mdl"!
+Error loading studio model STATIC "models/props/cs_office/shelves_metal.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/ventilationduct02.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/acunit01.mdl"!
+Error loading studio model STATIC "models/props/cs_office/light_ceiling.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/tree_small.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/prodgrassa.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/ceiling_light.mdl"!
+Error loading studio model STATIC "models/props_c17/factorymachine01.mdl"!
+Error loading studio model STATIC "models/props/de_train/acunit1.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/cactus.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/logpile.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/ammo_can_03.mdl"!
+Error loading studio model STATIC "models/props/de_piranesi/pi_apc.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/crate_extrasmallmill.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/table_shed.mdl"!
+Error loading studio model STATIC "models/props/cs_assault/wall_wires2.mdl"!
+Error loading studio model STATIC "models/props/cs_militia/couch.mdl"!
+Error loading studio model STATIC "models/props/de_inferno/furniture_couch02a.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags3.mdl"!
+Error loading studio model STATIC "models/props/de_prodigy/concretebags2.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 7808 texinfos to 5387
+Reduced 758 texdatas to 657 (30623 bytes to 26919)
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+17 seconds elapsed
+
+
+
+12 threads
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+reading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.prt
+4463 portalclusters
+11947 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 709966 visible clusters (9.89%)
+Total clusters visible: 7178034
+Average clusters visible: 1608
+Building PAS...
+Average clusters audible: 3885
+visdatasize:3548211  compressed from 4998560
+writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+PREP OK
+29540 faces
+3 degenerate faces
+4147322 square feet [597214464.00 square inches]
+110 Displacements
+81555 Square Feet [11744018.00 Square Inches]
+29537 patches before subdivision
+291667 patches after subdivision
+1008 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 35803978, max 3348
+transfer lists: 273.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1131053, 1000786, 669676)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(284514, 226109, 131134)
+Build Patch/Sample Hash Table(s).....Done<0.1117 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 456/4096        21888/196608   (11.1%) 
+brushes               8811/16384      105732/196608   (53.8%) 
+brushsides           59609/163840     476872/1310720  (36.4%) 
+planes               21524/65536      430480/1310720  (32.8%) 
+vertexes             51882/65536      622584/786432   (79.2%) 
+nodes                13085/65536      418720/2097152  (20.0%) 
+texinfos              5387/16384      387864/1179648  (32.9%) 
+texdata                657/8192        21024/262144   ( 8.0%) 
+dispinfos              110/0           19360/0        ( 0.0%) 
+disp_verts            9030/0          180600/0        ( 0.0%) 
+disp_tris            14368/0           28736/0        ( 0.0%) 
+disp_lmsamples      194141/0          194141/0        ( 0.0%) 
+faces                29540/65536     1654240/3670016  (45.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            21288/65536     1192128/3670016  (32.5%) 
+leaves               13542/65536      433344/2097152  (20.7%) 
+leaffaces            35210/65536       70420/131072   (53.7%) 
+leafbrushes          16448/65536       32896/131072   (25.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges           203025/512000     812100/2048000  (39.7%) 
+edges               151476/256000     605904/1024000  (59.2%) 
+LDR worldlights       1008/8192        88704/720896   (12.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips              0/32768           0/327680   ( 0.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices             0/65536           0/131072   ( 0.0%) 
+cubemapsamples          42/1024          672/16384    ( 4.1%) 
+overlays               205/8192        72160/2883584  ( 2.5%) 
+LDR lightdata         [variable]    20380116/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     3548211/16777216 (21.1%) 
+entdata               [variable]      864259/393216   (219.8%) VERY FULL!
+LDR ambient table    13542/65536       54168/262144   (20.7%) 
+HDR ambient table    13542/65536       54168/262144   (20.7%) 
+LDR leaf ambient     43765/65536     1225420/1835008  (66.8%) 
+HDR leaf ambient     13542/65536      379176/1835008  (20.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/15044    ( 0.0%) 
+dtl prp lght          [variable]           1/1434     ( 0.1%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/67066    ( 0.0%) 
+pakfile               [variable]     1192261/0        ( 0.0%) 
+physics               [variable]     4721974/4194304  (112.6%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 58884
+Writing c:\users\sanya\documents\github\rp_downtown_bangclaw_v2\maps\rp_downtown_bangclaw_v2.bsp
+58 seconds elapsed
