@@ -1,0 +1,6 @@
+"lightmappedgeneric" {
+    "$basetexture" "Panel textures\solar"
+    "$envmapmask" "Panel textures\solar_spec"
+    "$envmap" "env_cubemap"
+    "$surfaceprop" "tile"
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "additionaldevtextures/dev_surface_yellow"
+	"$surfaceprop" "Brick"
+}

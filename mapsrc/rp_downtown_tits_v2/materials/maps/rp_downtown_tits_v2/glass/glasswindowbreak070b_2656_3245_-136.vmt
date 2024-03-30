@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/glass/glasswindowbreak070b.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/rp_downtown_tits_v2/c2656_3245_-136"
+		"Proxies"
+		{
+		}
+	}
+}

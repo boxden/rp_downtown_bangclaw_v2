@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "cliff3/BigCliff1side"
+	"$basetexture2" "cliff3/BigCliff1seaweed"
+	"$bumpmap" "cliff3/BigCliff1n"
+                  "$bumpmap2" "cliff3/BigCliff1n"
+                  "$surfaceprop" "Rock"
+	"$surfaceprop2" "Slime"
+                 	"$envmaptint" "[ 0 0 0]"
+	"$envmap" "env_cubemap"
+                    "%keywords" "cstrike" 
+}
